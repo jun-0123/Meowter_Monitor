@@ -1,0 +1,6 @@
+train: /content/cat_tongue_dataset/images/train
+val: /content/cat_tongue_dataset/images/val
+
+nc: 1
+names:
+  - cat_tongue
